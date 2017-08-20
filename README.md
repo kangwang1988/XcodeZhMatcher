@@ -1,0 +1,2 @@
+# XcodeZhMatcher
+使用clang插件来查找所有包含汉字的字符串并在相应区域添加Warning(带逻辑判别)，方便后续实现全量I18N化的替换。
